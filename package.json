@@ -1,0 +1,13 @@
+{
+  "name": "master-protocol-dashboard",
+  "version": "1.0.0",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "ethers": "^6.10.0",
+    "wagmi": "latest",
+    "viem": "latest",
+    "@rainbow-me/rainbowkit": "latest",
+    "lucide-react": "latest"
+  }
+}
